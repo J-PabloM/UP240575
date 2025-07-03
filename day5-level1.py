@@ -15,7 +15,7 @@ print(frutas[len(frutas)//2])
 print(frutas[-1])               
 
 #5.
-mixed_data_types=['José Pablo Morales Esparza', 19, 1.83, 'Soltero', 'periodistas']
+mixed_data_types=['José Pablo Morales Esparza', 19, 1.83, 'Soltero', 'Valladolid']
 
 #6.
 compañias=['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
